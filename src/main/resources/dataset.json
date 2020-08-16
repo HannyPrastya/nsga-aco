@@ -1,0 +1,692 @@
+{
+  "numberOfOrders": 100,
+  "totalOfWeight": 2150,
+  "orders": [{
+    "itemIDs": [172],
+    "totalWeight": 4
+  }, {
+    "itemIDs": [51, 141, 31, 158],
+    "totalWeight": 24
+  }, {
+    "itemIDs": [70, 56, 68, 98, 185, 21],
+    "totalWeight": 33
+  }, {
+    "itemIDs": [76, 151, 67, 16, 31, 150, 97],
+    "totalWeight": 46
+  }, {
+    "itemIDs": [9, 82],
+    "totalWeight": 3
+  }, {
+    "itemIDs": [69],
+    "totalWeight": 6
+  }, {
+    "itemIDs": [122, 112, 181],
+    "totalWeight": 16
+  }, {
+    "itemIDs": [76, 84, 176, 187, 77],
+    "totalWeight": 31
+  }, {
+    "itemIDs": [83, 84, 100, 50, 3, 149],
+    "totalWeight": 24
+  }, {
+    "itemIDs": [187, 29, 60, 116, 181, 31, 73],
+    "totalWeight": 42
+  }, {
+    "itemIDs": [51],
+    "totalWeight": 6
+  }, {
+    "itemIDs": [33, 140, 44, 92],
+    "totalWeight": 28
+  }, {
+    "itemIDs": [25, 24, 66, 34, 86, 129],
+    "totalWeight": 30
+  }, {
+    "itemIDs": [29, 56, 74, 105, 189],
+    "totalWeight": 22
+  }, {
+    "itemIDs": [85, 7, 86, 150, 154],
+    "totalWeight": 24
+  }, {
+    "itemIDs": [62, 172, 157, 88, 118, 107, 111],
+    "totalWeight": 35
+  }, {
+    "itemIDs": [67, 156, 50, 182, 80, 89],
+    "totalWeight": 35
+  }, {
+    "itemIDs": [46, 81],
+    "totalWeight": 15
+  }, {
+    "itemIDs": [2],
+    "totalWeight": 8
+  }, {
+    "itemIDs": [18, 188, 178, 96, 162, 12, 44],
+    "totalWeight": 39
+  }, {
+    "itemIDs": [104, 83, 158, 68, 106, 110, 42],
+    "totalWeight": 26
+  }, {
+    "itemIDs": [149, 38, 183, 82],
+    "totalWeight": 19
+  }, {
+    "itemIDs": [111],
+    "totalWeight": 1
+  }, {
+    "itemIDs": [63, 44],
+    "totalWeight": 12
+  }, {
+    "itemIDs": [12],
+    "totalWeight": 8
+  }, {
+    "itemIDs": [176],
+    "totalWeight": 2
+  }, {
+    "itemIDs": [72, 47, 105, 30],
+    "totalWeight": 21
+  }, {
+    "itemIDs": [109, 94, 103, 73],
+    "totalWeight": 28
+  }, {
+    "itemIDs": [177, 156, 37, 82, 68, 109, 168],
+    "totalWeight": 44
+  }, {
+    "itemIDs": [128, 180, 70],
+    "totalWeight": 16
+  }, {
+    "itemIDs": [13, 34, 173],
+    "totalWeight": 17
+  }, {
+    "itemIDs": [33, 177, 138, 34, 134, 62, 45],
+    "totalWeight": 38
+  }, {
+    "itemIDs": [63, 17, 81],
+    "totalWeight": 16
+  }, {
+    "itemIDs": [166],
+    "totalWeight": 4
+  }, {
+    "itemIDs": [8, 128, 15, 140, 182],
+    "totalWeight": 28
+  }, {
+    "itemIDs": [22, 125, 142, 106, 115, 20, 65],
+    "totalWeight": 46
+  }, {
+    "itemIDs": [42, 121, 190, 136, 88],
+    "totalWeight": 30
+  }, {
+    "itemIDs": [9, 107, 145, 76],
+    "totalWeight": 22
+  }, {
+    "itemIDs": [36, 118, 38, 34],
+    "totalWeight": 20
+  }, {
+    "itemIDs": [37, 86, 37, 65, 2, 145],
+    "totalWeight": 49
+  }, {
+    "itemIDs": [26, 18, 73, 101],
+    "totalWeight": 25
+  }, {
+    "itemIDs": [3],
+    "totalWeight": 6
+  }, {
+    "itemIDs": [32, 101],
+    "totalWeight": 13
+  }, {
+    "itemIDs": [181, 153, 156, 100],
+    "totalWeight": 22
+  }, {
+    "itemIDs": [167, 39, 111, 182, 52],
+    "totalWeight": 20
+  }, {
+    "itemIDs": [97, 176],
+    "totalWeight": 11
+  }, {
+    "itemIDs": [184, 178, 138],
+    "totalWeight": 12
+  }, {
+    "itemIDs": [129, 173, 97, 171, 10, 191, 87],
+    "totalWeight": 45
+  }, {
+    "itemIDs": [5, 14],
+    "totalWeight": 11
+  }, {
+    "itemIDs": [189, 38, 29, 78],
+    "totalWeight": 15
+  }, {
+    "itemIDs": [70],
+    "totalWeight": 6
+  }, {
+    "itemIDs": [108, 188, 83],
+    "totalWeight": 9
+  }, {
+    "itemIDs": [116, 55, 134, 32, 86, 109, 83],
+    "totalWeight": 32
+  }, {
+    "itemIDs": [8, 66],
+    "totalWeight": 11
+  }, {
+    "itemIDs": [97],
+    "totalWeight": 9
+  }, {
+    "itemIDs": [190, 161, 62, 74, 45, 23, 6],
+    "totalWeight": 34
+  }, {
+    "itemIDs": [95, 39],
+    "totalWeight": 15
+  }, {
+    "itemIDs": [122, 183, 94],
+    "totalWeight": 18
+  }, {
+    "itemIDs": [82, 50, 126, 15, 85, 184, 55],
+    "totalWeight": 29
+  }, {
+    "itemIDs": [86],
+    "totalWeight": 7
+  }, {
+    "itemIDs": [47, 165, 169, 86, 151, 133],
+    "totalWeight": 35
+  }, {
+    "itemIDs": [19, 60, 144, 46],
+    "totalWeight": 30
+  }, {
+    "itemIDs": [33, 93, 124, 53, 69, 185, 2],
+    "totalWeight": 40
+  }, {
+    "itemIDs": [6, 119],
+    "totalWeight": 7
+  }, {
+    "itemIDs": [63, 162, 146, 65, 184, 154],
+    "totalWeight": 22
+  }, {
+    "itemIDs": [183, 97],
+    "totalWeight": 15
+  }, {
+    "itemIDs": [24, 49, 130, 25, 46],
+    "totalWeight": 34
+  }, {
+    "itemIDs": [33, 118, 93],
+    "totalWeight": 24
+  }, {
+    "itemIDs": [114, 191, 26, 30, 150, 130, 185],
+    "totalWeight": 41
+  }, {
+    "itemIDs": [37, 139, 36, 149],
+    "totalWeight": 31
+  }, {
+    "itemIDs": [57, 68, 99, 26],
+    "totalWeight": 23
+  }, {
+    "itemIDs": [104, 35],
+    "totalWeight": 6
+  }, {
+    "itemIDs": [185, 121, 109],
+    "totalWeight": 19
+  }, {
+    "itemIDs": [87],
+    "totalWeight": 8
+  }, {
+    "itemIDs": [184, 20, 84],
+    "totalWeight": 11
+  }, {
+    "itemIDs": [71, 136, 113, 20, 53],
+    "totalWeight": 28
+  }, {
+    "itemIDs": [111, 84, 177, 167],
+    "totalWeight": 14
+  }, {
+    "itemIDs": [48, 151, 111, 135, 17, 52, 128],
+    "totalWeight": 23
+  }, {
+    "itemIDs": [163, 125, 136, 165, 106],
+    "totalWeight": 31
+  }, {
+    "itemIDs": [161, 122],
+    "totalWeight": 5
+  }, {
+    "itemIDs": [166, 33, 123, 116, 166, 61],
+    "totalWeight": 24
+  }, {
+    "itemIDs": [4, 42, 122, 169, 108],
+    "totalWeight": 26
+  }, {
+    "itemIDs": [32, 55, 10, 147, 115, 160, 90],
+    "totalWeight": 40
+  }, {
+    "itemIDs": [172, 135],
+    "totalWeight": 9
+  }, {
+    "itemIDs": [178, 21, 171, 46, 129, 167, 45],
+    "totalWeight": 29
+  }, {
+    "itemIDs": [40, 166, 32, 37, 21, 169],
+    "totalWeight": 41
+  }, {
+    "itemIDs": [17],
+    "totalWeight": 4
+  }, {
+    "itemIDs": [145, 174],
+    "totalWeight": 15
+  }, {
+    "itemIDs": [167],
+    "totalWeight": 4
+  }, {
+    "itemIDs": [119, 123],
+    "totalWeight": 4
+  }, {
+    "itemIDs": [53, 146],
+    "totalWeight": 8
+  }, {
+    "itemIDs": [143, 89, 30, 148, 27, 176],
+    "totalWeight": 38
+  }, {
+    "itemIDs": [130, 98, 3, 128, 59],
+    "totalWeight": 24
+  }, {
+    "itemIDs": [27, 57, 145, 10, 184, 36, 0],
+    "totalWeight": 47
+  }, {
+    "itemIDs": [21, 98, 143],
+    "totalWeight": 21
+  }, {
+    "itemIDs": [95, 35, 110, 58],
+    "totalWeight": 18
+  }, {
+    "itemIDs": [160, 165],
+    "totalWeight": 13
+  }, {
+    "itemIDs": [49],
+    "totalWeight": 7
+  }, {
+    "itemIDs": [145, 28, 51, 95, 19],
+    "totalWeight": 41
+  }, {
+    "itemIDs": [163, 43, 148, 83, 170],
+    "totalWeight": 22
+  }],
+  "items": [{
+    "weight": 8
+  }, {
+    "weight": 2
+  }, {
+    "weight": 8
+  }, {
+    "weight": 6
+  }, {
+    "weight": 9
+  }, {
+    "weight": 8
+  }, {
+    "weight": 6
+  }, {
+    "weight": 1
+  }, {
+    "weight": 9
+  }, {
+    "weight": 1
+  }, {
+    "weight": 10
+  }, {
+    "weight": 5
+  }, {
+    "weight": 8
+  }, {
+    "weight": 8
+  }, {
+    "weight": 3
+  }, {
+    "weight": 5
+  }, {
+    "weight": 9
+  }, {
+    "weight": 4
+  }, {
+    "weight": 7
+  }, {
+    "weight": 10
+  }, {
+    "weight": 8
+  }, {
+    "weight": 9
+  }, {
+    "weight": 5
+  }, {
+    "weight": 6
+  }, {
+    "weight": 4
+  }, {
+    "weight": 10
+  }, {
+    "weight": 2
+  }, {
+    "weight": 6
+  }, {
+    "weight": 8
+  }, {
+    "weight": 2
+  }, {
+    "weight": 9
+  }, {
+    "weight": 7
+  }, {
+    "weight": 3
+  }, {
+    "weight": 7
+  }, {
+    "weight": 3
+  }, {
+    "weight": 4
+  }, {
+    "weight": 6
+  }, {
+    "weight": 9
+  }, {
+    "weight": 4
+  }, {
+    "weight": 7
+  }, {
+    "weight": 10
+  }, {
+    "weight": 5
+  }, {
+    "weight": 5
+  }, {
+    "weight": 6
+  }, {
+    "weight": 8
+  }, {
+    "weight": 1
+  }, {
+    "weight": 7
+  }, {
+    "weight": 6
+  }, {
+    "weight": 10
+  }, {
+    "weight": 7
+  }, {
+    "weight": 4
+  }, {
+    "weight": 6
+  }, {
+    "weight": 1
+  }, {
+    "weight": 1
+  }, {
+    "weight": 6
+  }, {
+    "weight": 3
+  }, {
+    "weight": 8
+  }, {
+    "weight": 7
+  }, {
+    "weight": 5
+  }, {
+    "weight": 8
+  }, {
+    "weight": 7
+  }, {
+    "weight": 4
+  }, {
+    "weight": 7
+  }, {
+    "weight": 4
+  }, {
+    "weight": 2
+  }, {
+    "weight": 7
+  }, {
+    "weight": 2
+  }, {
+    "weight": 3
+  }, {
+    "weight": 4
+  }, {
+    "weight": 6
+  }, {
+    "weight": 6
+  }, {
+    "weight": 2
+  }, {
+    "weight": 3
+  }, {
+    "weight": 6
+  }, {
+    "weight": 8
+  }, {
+    "weight": 1
+  }, {
+    "weight": 8
+  }, {
+    "weight": 10
+  }, {
+    "weight": 8
+  }, {
+    "weight": 6
+  }, {
+    "weight": 7
+  }, {
+    "weight": 8
+  }, {
+    "weight": 2
+  }, {
+    "weight": 3
+  }, {
+    "weight": 2
+  }, {
+    "weight": 5
+  }, {
+    "weight": 7
+  }, {
+    "weight": 8
+  }, {
+    "weight": 4
+  }, {
+    "weight": 6
+  }, {
+    "weight": 1
+  }, {
+    "weight": 7
+  }, {
+    "weight": 7
+  }, {
+    "weight": 10
+  }, {
+    "weight": 8
+  }, {
+    "weight": 8
+  }, {
+    "weight": 8
+  }, {
+    "weight": 9
+  }, {
+    "weight": 3
+  }, {
+    "weight": 10
+  }, {
+    "weight": 2
+  }, {
+    "weight": 10
+  }, {
+    "weight": 1
+  }, {
+    "weight": 5
+  }, {
+    "weight": 2
+  }, {
+    "weight": 3
+  }, {
+    "weight": 9
+  }, {
+    "weight": 4
+  }, {
+    "weight": 2
+  }, {
+    "weight": 9
+  }, {
+    "weight": 1
+  }, {
+    "weight": 1
+  }, {
+    "weight": 3
+  }, {
+    "weight": 8
+  }, {
+    "weight": 5
+  }, {
+    "weight": 8
+  }, {
+    "weight": 2
+  }, {
+    "weight": 4
+  }, {
+    "weight": 7
+  }, {
+    "weight": 1
+  }, {
+    "weight": 4
+  }, {
+    "weight": 7
+  }, {
+    "weight": 4
+  }, {
+    "weight": 3
+  }, {
+    "weight": 5
+  }, {
+    "weight": 2
+  }, {
+    "weight": 9
+  }, {
+    "weight": 4
+  }, {
+    "weight": 1
+  }, {
+    "weight": 4
+  }, {
+    "weight": 6
+  }, {
+    "weight": 5
+  }, {
+    "weight": 5
+  }, {
+    "weight": 8
+  }, {
+    "weight": 5
+  }, {
+    "weight": 5
+  }, {
+    "weight": 9
+  }, {
+    "weight": 4
+  }, {
+    "weight": 8
+  }, {
+    "weight": 9
+  }, {
+    "weight": 6
+  }, {
+    "weight": 9
+  }, {
+    "weight": 7
+  }, {
+    "weight": 9
+  }, {
+    "weight": 6
+  }, {
+    "weight": 9
+  }, {
+    "weight": 7
+  }, {
+    "weight": 9
+  }, {
+    "weight": 6
+  }, {
+    "weight": 7
+  }, {
+    "weight": 9
+  }, {
+    "weight": 1
+  }, {
+    "weight": 3
+  }, {
+    "weight": 3
+  }, {
+    "weight": 2
+  }, {
+    "weight": 7
+  }, {
+    "weight": 8
+  }, {
+    "weight": 8
+  }, {
+    "weight": 2
+  }, {
+    "weight": 6
+  }, {
+    "weight": 6
+  }, {
+    "weight": 1
+  }, {
+    "weight": 1
+  }, {
+    "weight": 4
+  }, {
+    "weight": 7
+  }, {
+    "weight": 7
+  }, {
+    "weight": 4
+  }, {
+    "weight": 4
+  }, {
+    "weight": 5
+  }, {
+    "weight": 6
+  }, {
+    "weight": 3
+  }, {
+    "weight": 1
+  }, {
+    "weight": 4
+  }, {
+    "weight": 6
+  }, {
+    "weight": 6
+  }, {
+    "weight": 8
+  }, {
+    "weight": 2
+  }, {
+    "weight": 7
+  }, {
+    "weight": 3
+  }, {
+    "weight": 1
+  }, {
+    "weight": 9
+  }, {
+    "weight": 9
+  }, {
+    "weight": 7
+  }, {
+    "weight": 6
+  }, {
+    "weight": 1
+  }, {
+    "weight": 3
+  }, {
+    "weight": 5
+  }, {
+    "weight": 9
+  }, {
+    "weight": 4
+  }, {
+    "weight": 1
+  }, {
+    "weight": 5
+  }, {
+    "weight": 7
+  }],
+  "capacity": 100,
+  "numberOfItemPerOrder": 7
+}
